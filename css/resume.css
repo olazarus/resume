@@ -1,0 +1,35 @@
+body {
+	margin: 50px;
+	border: 2px solid black;
+	padding: 0 50px 0 50px;
+}
+
+h1 {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+.date {
+	float: right;
+}
+
+.place {
+	font-weight: bold;
+}
+
+.position {
+	margin: -3px 1px;;
+	font-size: 15px;
+	padding: 0 0 2px;
+	font-style: italic;
+}
+
+.description {
+	margin-top: -.5px;
+	font-size: 15px;
+}
+	
