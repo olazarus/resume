@@ -23,14 +23,18 @@ h2 {
 }
 
 .position {
-	margin: -3px 1px;;
+	margin: -3px 1px -20px 0;
 	font-size: 15px;
 	padding: 0 0 2px;
 	font-style: italic;
 }
 
 .description {
-	margin-top: -.5px;
+	margin-top: -1px;
 	font-size: 15px;
 }
-	
+
+.activities ul  {
+	margin-top: -1px;
+}
+
